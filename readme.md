@@ -22,3 +22,5 @@
 - Futtassuk a main.py programot.
 - Válasszuk ki a listából, hogy melyik táblákat szeretnénk exportálni CSV formátumban majd a 'Save' gomb segítségével exportáljuk azokat.
 - Ha végeztünk az exportálással a 'Quit' gomb segítségével bezárhatjuk a programot.
+
+![Preview](https://i.imgur.com/IErdqi4.png)
